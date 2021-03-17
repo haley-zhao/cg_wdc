@@ -1,0 +1,16 @@
+﻿To-do
+- Set up folder structure
+	-index.html	
+	-app.js
+	-style.css (simple UI interface to provide parameters for API endpoints)
+- Create github repo 
+- Link repo to Vercel
+- Create a simple landing page
+- Add jQuery
+- Add Tableau JS File
+- Create frontend JavaScript file
+	- create schema for wdc 
+	- populate schema with getData
+	- jQuery to call API
+- Deploy on Vercel
+- Test
